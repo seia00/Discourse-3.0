@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Discourse/Discourse"
+		},
+		{
+			"path": "../../Discourse"
+		},
+		{
+			"path": "../../Discourse/Discourse 2.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Discourse"
+	}
+}
